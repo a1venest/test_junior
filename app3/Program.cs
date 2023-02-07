@@ -13,3 +13,4 @@ void Case(int a)
 }
 int number = GetNumberFromConsole();
 Case(number);
+// 10 минут
