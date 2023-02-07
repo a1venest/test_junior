@@ -16,3 +16,5 @@ void NewInput(string[] arr)
 
 string[] input = GetString();
 NewInput(input);
+
+// час
